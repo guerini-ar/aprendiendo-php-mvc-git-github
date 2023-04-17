@@ -1,5 +1,7 @@
 <?php
 
+  // Borro los espacios para ver como sincronizo con github
+
   // Requiero el controller_usuario.php
     require_once 'controllers/controller_usuario.php';
     require_once 'models/model_usuario.php';
